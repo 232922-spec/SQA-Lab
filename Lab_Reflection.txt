@@ -1,0 +1,5 @@
+In this lab, I learned how GitHub helps students work together on the same project. 
+Team members can share files, update work, and see changes easily.
+
+Version control is important in SQA because it keeps record of changes, avoids data loss, 
+and helps manage testing documents properly. It also improves teamwork and project organization.
